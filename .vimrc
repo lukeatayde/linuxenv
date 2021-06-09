@@ -15,10 +15,6 @@ set wildmenu
 set wildignore+=**/node_modules/**
 
 let g:netrw_liststyle = 3
-
-# Comment / Uncomment for Mac environment
-set shell=/bin/zsh
-
 set colorcolumn=80
 highlight ColorColumn ctermbg=0 guibg=lightgrey
 
