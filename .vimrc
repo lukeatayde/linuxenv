@@ -8,7 +8,7 @@ set smartindent
 set smartcase
 set incsearch
 set hlsearch
-
+set backspace=indent,eol,start
 
 set path+=**
 set wildmenu
