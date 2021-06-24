@@ -15,6 +15,7 @@ set wildmenu
 set wildignore+=**/node_modules/**
 
 let g:netrw_liststyle = 3
+let g:netrw_preview = 1
 set colorcolumn=80
 highlight ColorColumn ctermbg=0 guibg=lightgrey
 
